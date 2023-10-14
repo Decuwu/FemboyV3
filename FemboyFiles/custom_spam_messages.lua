@@ -1,1 +1,1 @@
-return {"R* gay"}
+return {"R* gay", "stinky"}

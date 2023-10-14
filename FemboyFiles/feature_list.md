@@ -259,3 +259,21 @@ walkstyles.lua - this table is for walkstyles within the script, feel free to ad
 
 # Changelog v3.4
 - Added tp player to player
+
+# Changelog v3.5
+- Added Redirect SCID Joins To Admins
+    - activate this feature to set your join redirect as an admin that is currently online
+- Fixed error
+
+# Changelog v3.5.2
+- Now includes admins.lua table
+
+# Changelog v3.6
+- Added Country Tracker Options
+    - Crash Toggled Country
+    - Kick Toggled Country
+    - Notify Toggled Country
+- Improved country tracker
+- Fixed feature saving
+- Fixed issue with script load
+- Other improvements and fixes
