@@ -277,3 +277,46 @@ walkstyles.lua - this table is for walkstyles within the script, feel free to ad
 - Fixed feature saving
 - Fixed issue with script load
 - Other improvements and fixes
+
+# Changelog v3.6.2
+- Improved auto updater
+- Added admins.lua check to prevent breakage
+
+# Changelog v3.7
+- Added list of achievements to choose manually
+    - https://femboys-dm.me/nudes/ps779fyn.png
+- Moved Get all achievements and set special edition to sp recovery
+
+# Changelog 3.7.1
+- Auto repair now works on vtols - thank you moist
+    - blacklisted_repair_vehicles.lua is now useless. feel free to delete
+- Achievement table will now be downloaded on auto update
+- Stats and HTTP are no longer required but features using them will be hidden if not enabled
+
+# Changelog 3.8.0
+- Added Disable Radio On Enter
+    - turns the radio off when you enter the car, doesn't block the radio
+- Added Match License To Frames -- thankies for idea ripperowo
+- Added Copypasta Spam
+    - Add copypasta manually in the copypasta.lua table
+- Added WIP splash screen
+    - can disable in settings
+- Improved Redirect To Admin -- thanks to Toph and prodder
+- Fixed Atomizer Gun -- thanks kitto
+- Fixed some hints -- thanks kitto
+
+# Changelog 3.9.0
+- Added Randomise Outfit
+- Added Lazer Sight
+- Added "protection" for Tazer Crash
+    - will break missions that require a ped to be in your car
+    - will delete hookers :3
+- Added Demi-God for other players
+    - for both all and selected players, will heal players when they have taken damage. DOES NOT MAKE THEM INVULNVERABLE
+    - does not work if they are in a car
+- Added Car Follows You
+    - Last used car will constantly follow/try to get to you
+- Added ladder to heaven
+    - was bored, enjoy ig 
+- Fixed bail from session
+- Added check for missing loading sprite -- thanks for reporting Mia
