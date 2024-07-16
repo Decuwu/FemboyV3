@@ -330,3 +330,12 @@ walkstyles.lua - this table is for walkstyles within the script, feel free to ad
     - Added Whitelist Options
 - Improved Code + Optimisations
 - Removed Defunct Crashes
+
+# Changelog 3.9.2
+- Fixed missing files error
+
+# Changelog 3.9.3
+- Added player info
+    - see a players stats such as: kills, deaths, prostitutes, lapdances, races etc
+    - This uses globals which are prone to changing when gta updates. The script will still work if these break but the feature itself will not
+- Fixed missing file error again
