@@ -320,3 +320,13 @@ walkstyles.lua - this table is for walkstyles within the script, feel free to ad
     - was bored, enjoy ig 
 - Fixed bail from session
 - Added check for missing loading sprite -- thanks for reporting Mia
+
+# Changelog 3.9.1
+- Added Whitelist Friends [Country Tracker]
+- Added Ability to Add New Languages
+    - Add new languages to the FemboyFiles\Translations folder
+    - Enable them in the settings/languages within the script
+- Improved Aim Karma
+    - Added Whitelist Options
+- Improved Code + Optimisations
+- Removed Defunct Crashes
