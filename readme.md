@@ -7,6 +7,10 @@ FemboyV3 is a general purpose script with multiple features such as:
 
 # Installing
 To install FemboyV3 is very simple:
+## Automatically
+- Simply extract the zip after installing it and run the "FemboyInstaller.bat" file and it will automatically place it into the scripts folder for you
+
+## Manually
 - Download the repo as a zip
 - head to `%appdata%\popstardevs\2take1menu\scripts` and place both FemboyFiles (the folder) and FemboyV3.luac (the main file) within the scripts folder
 - It's as simple as that and you can then, in your 2take1 menu, go to `local > scripts` and you will see FemboyV3 there available to load
