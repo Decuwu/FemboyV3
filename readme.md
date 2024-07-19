@@ -8,7 +8,7 @@ FemboyV3 is a general purpose script with multiple features such as:
 # Installing
 To install FemboyV3 is very simple:
 ## Automatically
-- Simply extract the zip after installing it and run the "FemboyInstaller.bat" file and it will automatically place it into the scripts folder for you
+- Simply download the FemboyV3Downloader.exe and run it, it will automatically install the files needed into your scripts folder
 
 ## Manually
 - Download the repo as a zip
