@@ -8,6 +8,8 @@
     - Auto Updater
 - Stats 
     - SP Recovery Options
+- Globals
+    - Player Info Options
 
 # Local 
 - Save settings
@@ -339,3 +341,10 @@ walkstyles.lua - this table is for walkstyles within the script, feel free to ad
     - see a players stats such as: kills, deaths, prostitutes, lapdances, races etc
     - This uses globals which are prone to changing when gta updates. The script will still work if these break but the feature itself will not
 - Fixed missing file error again
+
+# Changelog 3.9.4
+- Added paste to chat
+- Added further checks for missing files
+- Fixed missing globals error
+    - may require a manual installation
+- Fixed native error upon loading without natives trusted
